@@ -15,4 +15,4 @@
 #### *30 Days of Code*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30 Days Code Challenge/day2_operators.py)|Easy|
+|1|[Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./"30 Days Code Challenge"/day2_operators.py)|Easy|
