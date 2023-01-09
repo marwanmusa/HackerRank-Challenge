@@ -29,5 +29,5 @@
 |1|Average Function | [Python](./Python%20(Basic)%20Certification/average_function.py)|Basic|
 |2|Shape Area| [Python](./Python%20(Basic)%20Certification/shape_area.py)|Basic|
 
-`Notes : `
+`Notes :`
 Task for `Python (Basic) Certification` may different for everyone else.
