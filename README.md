@@ -15,4 +15,19 @@
 #### *30 Days of Code*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30%20Days%20Code%20Challenge/day2_operators.py)|Easy|
+|2|[Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30%20Days%20Code%20Challenge/day2_operators.py)|Easy|
+|3|[Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Python](./30%20Days%20Code%20Challenge/day3_conditional_statements.py)|Easy|
+|4|[Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Python](./30%20Days%20Code%20Challenge/day4_class_vs_instance.py)|Easy|
+|5|[Class vs. Instance](https://www.hackerrank.com/challenges/30-loops/problem) | [Python](./30%20Days%20Code%20Challenge/day5_loops.py)|Easy|
+|6|[Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Python](./30%20Days%20Code%20Challenge/day6_lets_review.py)|Easy|
+|7|[Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Python](./30%20Days%20Code%20Challenge/day7_arrays.py)|Easy|
+
+
+#### *Python (Basic) Certification*
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|Average Function | [Python](./Python%20(Basic)%20Certification/average_function.py)|Basic|
+|2|Shape Area| [Python](./Python%20(Basic)%20Certification/shape_area.py)|Basic|
+
+`Notes : `
+Task for `Python (Basic) Certification` may different for everyone else.
