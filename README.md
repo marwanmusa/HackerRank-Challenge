@@ -23,6 +23,7 @@
 |7|[Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Python](./30%20Days%20Code%20Challenge/day7_arrays.py)|Easy|
 |8|[Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Python](./30%20Days%20Code%20Challenge/day8_dictionaries_&_maps.py)|Easy|
 |9|[Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Python](./30%20Days%20Code%20Challenge/Day9_recursion.py)|Easy|
+|10|[Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Python](./30%20Days%20Code%20Challenge/Day10_binary_numbers.py)|Easy|
 
 
 
