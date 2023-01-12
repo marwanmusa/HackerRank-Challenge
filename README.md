@@ -24,6 +24,7 @@
 |8|[Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Python](./30%20Days%20Code%20Challenge/day8_dictionaries_&_maps.py)|Easy|
 |9|[Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Python](./30%20Days%20Code%20Challenge/Day9_recursion.py)|Easy|
 |10|[Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Python](./30%20Days%20Code%20Challenge/Day10_binary_numbers.py)|Easy|
+|11|[2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Python](./30%20Days%20Code%20Challenge/day11_2d_arrays.py)|Easy|
 
 
 
