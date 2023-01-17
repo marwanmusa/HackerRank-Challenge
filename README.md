@@ -29,6 +29,7 @@
 |13|[Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Python](./30%20Days%20Code%20Challenge/day13_abstract_classes.py)|Easy|
 |14|[Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Python](./30%20Days%20Code%20Challenge/day14_scope.py)|Easy|
 |15|[Scope](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Python](./30%20Days%20Code%20Challenge/day15_linked_list.py)|Easy|
+|16|[Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Python](./30%20Days%20Code%20Challenge/day16_exceptions.py)|Easy|
 
 
 
