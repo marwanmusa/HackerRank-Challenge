@@ -11,9 +11,11 @@ class Calculator:
     Do not use an access modifier (e.g.: public) in the declaration
     for your Calculator class.
     """
+    def __init__(self):
+        pass
 
     def power(self, n : int, p : int) -> int:
-        if (n or p) < 0:
+        if n < 0 or p <0:
             raise Exception("n and p should be non-negative")
         else:
             return n**p
