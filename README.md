@@ -31,6 +31,7 @@
 |15|[Scope](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Python](./30%20Days%20Code%20Challenge/day15_linked_list.py)|Easy|
 |16|[Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Python](./30%20Days%20Code%20Challenge/day16_exceptions.py)|Easy|
 |17|[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Python](./30%20Days%20Code%20Challenge/day17_more_exceptions.py)|Easy|
+|18|[Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Python](./30%20Days%20Code%20Challenge/day18_queues_&_stacks.py)|Easy
 
 
 
