@@ -33,6 +33,7 @@
 |17|[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Python](./30%20Days%20Code%20Challenge/day17_more_exceptions.py)|Easy|
 |18|[Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Python](./30%20Days%20Code%20Challenge/day18_queues_&_stacks.py)|Easy|
 |19|[Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Python](./30%20Days%20Code%20Challenge/day19_interfaces.py)|Easy|
+|20|[Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Python](./30%20Days%20Code%20Challenge/day20_sorting.py)|Easy|
 
 
 
