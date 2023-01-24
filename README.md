@@ -36,6 +36,7 @@
 |20|[Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Python](./30%20Days%20Code%20Challenge/day20_sorting.py)|Easy|
 |21|[Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Java](./30%20Days%20Code%20Challenge/day21_generics.java)|Easy|
 |22|[Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Python](./30%20Days%20Code%20Challenge/day22_binary_search_trees.py)|Easy|
+|23|[BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Python](./30%20Days%20Code%20Challenge/day23_bst_level_order_traversal.py)|Easy|
 
 
 
