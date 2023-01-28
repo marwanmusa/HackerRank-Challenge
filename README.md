@@ -38,8 +38,9 @@
 |22|[Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Python](./30%20Days%20Code%20Challenge/day22_binary_search_trees.py)|Easy|
 |23|[BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Python](./30%20Days%20Code%20Challenge/day23_bst_level_order_traversal.py)|Easy|
 |24|[More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Python](./30%20Days%20Code%20Challenge/day24_linked_list_deletion.py)|Easy|
-|25|[More Linked Lists](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Python](./30%20Days%20Code%20Challenge/day25_running_time_&_complexity.py)|Easy|
-|26|Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Python](./30%20Days%20Code%20Challenge/day26_nested_logic.py)|Easy|
+|25|[Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Python](./30%20Days%20Code%20Challenge/day25_running_time_&_complexity.py)|Easy|
+|26|[Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Python](./30%20Days%20Code%20Challenge/day26_nested_logic.py)|Easy|
+|26|[Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Python](./30%20Days%20Code%20Challenge/day27_testing.py)|Easy|
 
 #### *Python (Basic) Certification*
 | # | Title | Solution | Difficulty |
