@@ -41,7 +41,8 @@
 |25|[Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Python](./30%20Days%20Code%20Challenge/day25_running_time_&_complexity.py)|Medium|
 |26|[Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Python](./30%20Days%20Code%20Challenge/day26_nested_logic.py)|Easy|
 |27|[Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Python](./30%20Days%20Code%20Challenge/day27_testing.py)|Easy|
-|28|[RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Python](./30%20Days%20Code%20Challenge/day28_regex_pattern.py)|Easy|
+|28|[RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Python](./30%20Days%20Code%20Challenge/day28_regex_pattern.py)|Medium|
+|29|[Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Python](./30%20Days%20Code%20Challenge/day29_bitwise_AND.py)|Medium|
 
 #### *Python (Basic) Certification*
 | # | Title | Solution | Difficulty |
