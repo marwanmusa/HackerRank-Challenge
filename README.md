@@ -44,6 +44,13 @@
 |28|[RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Python](./30%20Days%20Code%20Challenge/day28_regex_pattern.py)|Medium|
 |29|[Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Python](./30%20Days%20Code%20Challenge/day29_bitwise_AND.py)|Medium|
 
+
+#### *10 Days of Statistics*
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Mean, Median & Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](./10%20Days%20of%20Statistics/day0_mean_median_mode.py)|Easy|
+|1|[Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Python](./10%20Days%20of%20Statistics/day0_weighted_mean.py)|Easy|
+
 #### *Python (Basic) Certification*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
