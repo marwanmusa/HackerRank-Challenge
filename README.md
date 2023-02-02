@@ -49,7 +49,10 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Mean, Median & Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](./10%20Days%20of%20Statistics/day0_mean_median_mode.py)|Easy|
-|1|[Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Python](./10%20Days%20of%20Statistics/day0_weighted_mean.py)|Easy|
+|2|[Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Python](./10%20Days%20of%20Statistics/day0_weighted_mean.py)|Easy|
+|3|[Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [Python](./10%20Days%20of%20Statistics/day1_quartiles.py)|Easy|
+|4|[Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [Python](./10%20Days%20of%20Statistics/day1_interquartile_range.py)|Easy|
+|5|[Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Python](./10%20Days%20of%20Statistics/day1_standard_deviation.py)|Easy|
 
 #### *Python (Basic) Certification*
 | # | Title | Solution | Difficulty |
