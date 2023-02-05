@@ -54,6 +54,15 @@
 |4|[Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [Python](./10%20Days%20of%20Statistics/day1_interquartile_range.py)|Easy|
 |5|[Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Python](./10%20Days%20of%20Statistics/day1_standard_deviation.py)|Easy|
 
+
+
+#### *Data Structure*
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Arrays - Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Python](./Data%20Structure/reversed_array.py)|Easy|
+|2|[2D Array - Hourglass](https://www.hackerrank.com/challenges/2d-array/problem) | [Python](./Data%20Structure/2d_array_hourglass.py)|Easy|
+
+
 #### *Python (Basic) Certification*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
