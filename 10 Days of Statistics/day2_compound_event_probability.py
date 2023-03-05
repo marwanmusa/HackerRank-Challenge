@@ -27,7 +27,7 @@ Ball = Enum("Ball", "RED BLACK")
 
 def want(d):
     c = Counter(d)
-    return Counter(d)[Ball.RED] == 2 and c[Ball.BLACK] == 1
+    return c[Ball.RED] == 2 and c[Ball.BLACK] == 1
 
 
 draws = list(
