@@ -56,17 +56,17 @@
 |6|[Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem) | [Python](./10%20Days%20of%20Statistics/day2_basic_probability.py)|Easy|
 |7|[Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem) | [Python](./10%20Days%20of%20Statistics/day2_compound_event_probability.py)|Easy|
 |8|[More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem) | [Python](./10%20Days%20of%20Statistics/day2_more_dice.py)|Easy|
-|9|[Conditional Probability](https://www.hackerrank.com/challenges/s10-conditional-probability/problem) | [Python](./10%20Days%20of%20Statistics/day2_more_dice.py)|Easy|
-|9|[Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) | [Python](./10%20Days%20of%20Statistics/day2_more_dice.py)|Easy|
+|9|[Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) | [Python](./10%20Days%20of%20Statistics/day3_conditional_probability.py)|Easy|
 |10|[Card of The Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) | [Python](./10%20Days%20of%20Statistics/day3_cards_of_the_same_suit.py)|Easy|
-|11|[Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day4_binomial_distribution1.py)|Easy|
-|12|[Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day4_binomial_distribution2.py)|Easy|
-|13|[Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day4_geometric_distribution1.py)|Easy|
-|14|[Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day4_geometric_distribution2.py)|Easy|
-|15|[Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_poisson_distribution1.py)|Easy|
-|16|[Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day5_poisson_distribution2.py)|Easy|
-|17|[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution1.py)|Easy|
-|18|[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution2.py)|Easy|
+|11|[Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) | [Python](./10%20Days%20of%20Statistics/day3_drawing_marbles.py)|Easy|
+|12|[Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day4_binomial_distribution1.py)|Easy|
+|13|[Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day4_binomial_distribution2.py)|Easy|
+|14|[Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day4_geometric_distribution1.py)|Easy|
+|15|[Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day4_geometric_distribution2.py)|Easy|
+|16|[Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_poisson_distribution1.py)|Easy|
+|17|[Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day5_poisson_distribution2.py)|Easy|
+|18|[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution1.py)|Easy|
+|19|[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution2.py)|Easy|
 
 
 #### *Data Structure*
