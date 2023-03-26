@@ -67,6 +67,9 @@
 |17|[Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Python](./10%20Days%20of%20Statistics/day5_poisson_distribution2.py)|Easy|
 |18|[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution1.py)|Easy|
 |19|[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Python](./10%20Days%20of%20Statistics/day5_normal_distribution2.py)|Easy|
+|20|[The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | [Python](./10%20Days%20of%20Statistics/day6_central_limit_theorem1.py)|Easy|
+|21|[The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | [Python](./10%20Days%20of%20Statistics/day6_central_limit_theorem2.py)|Easy|
+|22|[The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Python](./10%20Days%20of%20Statistics/day6_central_limit_theorem3.py)|Easy|
 
 
 #### *Data Structure*
