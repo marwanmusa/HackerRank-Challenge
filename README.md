@@ -72,6 +72,9 @@
 |22|[The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Python](./10%20Days%20of%20Statistics/day6_central_limit_theorem3.py)|Easy|
 |23|[Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | [Python](./10%20Days%20of%20Statistics/day7_pearson_correlation_coeficient.py)|Easy|
 |24|[Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) | [Python](./10%20Days%20of%20Statistics/day7_spearman_rank_correlation_coeficient.py)|Easy|
+|25|[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) | [Python](./10%20Days%20of%20Statistics/day8_least_square_regression_line.py)|Easy|
+|26|[Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem) | [Python](./10%20Days%20of%20Statistics/day8_pearson_correlation_coefficient2.py)|Easy|
+
 
 
 #### *Data Structure*
