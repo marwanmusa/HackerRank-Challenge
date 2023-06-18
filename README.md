@@ -16,6 +16,7 @@
   <br>
   <img src="Certificates/python_basic.png" width = 800/>
 </p>
+
 ## *Algorithm Solutions*
 
 <details>
