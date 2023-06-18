@@ -9,10 +9,18 @@
 </div>
 
 ---
+## *Certificates*
+<p align="center">
+  <img src="Certificates/problem_solving_basic.png" width = 800/>
+  <br>
+  <br>
+  <img src="Certificates/python_basic.png" width = 800/>
+</p>
+## *Algorithm Solutions*
 
-## Algorithm Solution
+<details>
+  <summary>30 Days of Code</summary>
 
-#### *30 Days of Code*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2|[Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30%20Days%20Code%20Challenge/day2_operators.py)|Easy|
@@ -43,9 +51,11 @@
 |27|[Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Python](./30%20Days%20Code%20Challenge/day27_testing.py)|Easy|
 |28|[RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Python](./30%20Days%20Code%20Challenge/day28_regex_pattern.py)|Medium|
 |29|[Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Python](./30%20Days%20Code%20Challenge/day29_bitwise_AND.py)|Medium|
+</details>
 
+<details>
+  <summary>10 Days of Statistics</summary>
 
-#### *10 Days of Statistics*
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Mean, Median & Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](./10%20Days%20of%20Statistics/day0_mean_median_mode.py)|Easy|
@@ -75,20 +85,4 @@
 |25|[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) | [Python](./10%20Days%20of%20Statistics/day8_least_square_regression_line.py)|Easy|
 |26|[Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem) | [Python](./10%20Days%20of%20Statistics/day8_pearson_correlation_coefficient2.py)|Easy|
 
-
-
-#### *Data Structure*
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|[Arrays - Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Python](./Data%20Structure/reversed_array.py)|Easy|
-|2|[2D Array - Hourglass](https://www.hackerrank.com/challenges/2d-array/problem) | [Python](./Data%20Structure/2d_array_hourglass.py)|Easy|
-
-
-#### *Python (Basic) Certification*
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|Average Function | [Python](./Python%20(Basic)%20Certification/average_function.py)|Basic|
-|2|Shape Area| [Python](./Python%20(Basic)%20Certification/shape_area.py)|Basic|
-
-`Notes :`
-Task for `Python (Basic) Certification` may different for everyone else.
+</details>
